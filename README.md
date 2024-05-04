@@ -1,5 +1,7 @@
-This is my favorite 65-layout keyboard configuration.
+# About this layout
 
-The layout's key bindings are the bindings that help me use Visual Studio Code (1.89.0 Universal) most efficiently.
+* This is my favorite 65-layout keyboard configuration
+* This layout allows me use Visual Studio Code (1.89.0 Universal) most quickly
+* I can drill into definitions (replace Caps Lock with F12) and jump to errors in a workspace (Right Shift + Backspace)
 
-This layout allows me to quickly drill into definitions and instantly jump to errors in a codebase.
+I use this layout with the [Mode Envoy](https://modedesigns.com/products/envoy)
